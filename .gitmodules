@@ -1,0 +1,63 @@
+[submodule "wireless_half-mini"]
+	path = wireless_half-mini
+	url = https://github.com/toleda/wireless_half-mini
+[submodule "ath9k"]
+	path = ath9k
+	url = https://github.com/aelam/ath9k
+[submodule "Atheros-AR9271"]
+	path = Atheros-AR9271
+	url = https://github.com/aaronkish/Atheros-AR9271
+[submodule "KisMac2"]
+	path = KisMac2
+	url = https://github.com/aaronkish/KisMac2
+[submodule "CoreWLANWirelessManager"]
+	path = CoreWLANWirelessManager
+	url = https://github.com/andyvand/CoreWLANWirelessManager
+[submodule "SpoofMAC"]
+	path = SpoofMAC
+	url = https://github.com/feross/SpoofMAC
+[submodule "RTL8111"]
+	path = RTL8111
+	url = https://github.com/andyvand/RTL8111
+[submodule "IO80211Family-Headers"]
+	path = IO80211Family-Headers
+	url = https://github.com/theracermaster/IO80211Family-Headers
+[submodule "OS-X-Fake-PCI-ID"]
+	path = OS-X-Fake-PCI-ID
+	url = https://github.com/theracermaster/OS-X-Fake-PCI-ID
+[submodule "AppleIntelWiFiMVM"]
+	path = AppleIntelWiFiMVM
+	url = https://github.com/theracermaster/AppleIntelWiFiMVM
+[submodule "VoodooWireless"]
+	path = VoodooWireless
+	url = https://github.com/mercurysquad/VoodooWireless
+[submodule "VoodooFakeAirport"]
+	path = VoodooFakeAirport
+	url = https://github.com/mercurysquad/VoodooFakeAirport
+[submodule "VoodooIntel3945"]
+	path = VoodooIntel3945
+	url = https://github.com/mercurysquad/VoodooIntel3945
+[submodule "Voodoo80211"]
+	path = Voodoo80211
+	url = https://github.com/mercurysquad/Voodoo80211
+[submodule "Atheros-Bluetooth-Firmware-Uploader"]
+	path = Atheros-Bluetooth-Firmware-Uploader
+	url = https://github.com/EMlyDinEsHMG/Atheros-Bluetooth-Firmware-Uploader
+[submodule "OS-X-BrcmPatchRAM"]
+	path = OS-X-BrcmPatchRAM
+	url = https://github.com/andyvand/OS-X-BrcmPatchRAM
+[submodule "gofi"]
+	path = gofi
+	url = https://github.com/unixpickle/gofi
+[submodule "JamWiFi"]
+	path = JamWiFi
+	url = https://github.com/unixpickle/JamWiFi
+[submodule "CDAWiFi"]
+	path = CDAWiFi
+	url = https://github.com/colemancda/CDAWiFi
+[submodule "wlan-macos"]
+	path = wlan-macos
+	url = https://github.com/sbxfc/wlan-macos
+[submodule "wifibroadcast_osx"]
+	path = wifibroadcast_osx
+	url = https://github.com/MAVProxyUser/wifibroadcast_osx
